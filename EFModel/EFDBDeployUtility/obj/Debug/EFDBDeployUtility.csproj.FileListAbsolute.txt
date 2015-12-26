@@ -1,0 +1,14 @@
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EFDBDeployUtility.exe.config
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EFDBDeployUtility.exe
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EFDBDeployUtility.pdb
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\CommandLine.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EFModel.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EntityFramework.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EntityFramework.SqlServer.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EFModel.pdb
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\CommandLine.xml
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EntityFramework.xml
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\bin\Debug\EntityFramework.SqlServer.xml
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\obj\Debug\EFDBDeployUtility.csprojResolveAssemblyReference.cache
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\obj\Debug\EFDBDeployUtility.exe
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFDBDeployUtility\obj\Debug\EFDBDeployUtility.pdb

@@ -1,0 +1,11 @@
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EFModel.dll.config
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EFModel.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EFModel.pdb
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EntityFramework.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EntityFramework.xml
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\obj\Debug\EFModel.dll
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\obj\Debug\EFModel.pdb
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\obj\Debug\EFModel.Migrations.First.resources
+D:\yashlearning\EFDatabaseDeploy\EFModel\EFModel\obj\Debug\EFModel.csproj.GenerateResource.Cache
